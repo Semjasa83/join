@@ -1,5 +1,5 @@
 let jsonFromServer = {};
-let BASE_SERVER_URL = '/projects/Join-Kanban-board/smallest_backend_ever';
+let BASE_SERVER_URL = 'https://join.marcel-de-zanna.com/smallest_backend_ever';
 
 const backend = {
     setItem: function(key, item) {

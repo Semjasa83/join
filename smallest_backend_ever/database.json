@@ -1,1 +1,23 @@
-{"users":[{"username":"Marco","pw":"1234"},{"username":"Norman","pw":"1234"},{"username":"Marcel","pw":"1234"},{"username":"Gast","pw":"1234"}],"tasks":[{"urgency":"3","date":"2022-06-24","title":"JS","description":"Backlog Status Changing","category":"Aufbau Website","employees":"Marco","show":"Archive"},{"urgency":"1","date":"2022-06-24","title":"JS","description":"Board Drag and Drop","category":"Aufbau Website","employees":"Marco","show":"Done"},{"urgency":"2","date":"2022-06-24","title":"CSS","description":"Gestalltung Backlog","category":"Aufbau Website","employees":"Team","show":"Testing"},{"urgency":"1","date":"2022-06-24","title":"JS","description":"Funktionalität Backlog","category":"Aufbau Website","employees":"Team","show":"Done"},{"urgency":"2","date":"2022-06-24","title":"JS","description":"Backend einfügen","category":"Aufbau Website","employees":"Team","show":"Testing"},{"urgency":"2","date":"2022-06-24","title":"CSS","description":"Gestalltung Board","category":"Aufbau Website","employees":"Team","show":"Testing"},{"urgency":"2","date":"2022-06-24","title":"CSS","description":"Gestalltung Add Task","category":"Aufbau Website","employees":"Team","show":"Testing"},{"urgency":"1","date":"2022-06-24","title":"All","description":"Archive","category":"Aufbau Website","employees":"Team","show":"Done"},{"urgency":"1","date":"2022-06-24","title":"All","description":"Trash","category":"Aufbau Website","employees":"Team","show":"Done"},{"urgency":"1","date":"2022-06-28","title":"JS Login-Funktion","description":"Funktionalität Login","category":"Aufbau Website","employees":"Marco","show":"Testing"},{"urgency":"2","date":"2022-06-28","title":"Schriftfarbe Login","description":"Schriftfarbe im Eingabefeld ändern. Derzeit schwarz","category":"Aufbau Website","employees":"Marco","show":"ToDo"}]}
+{
+    "users": [
+        {
+            "username": "Marco",
+            "pw": "1234"
+        },
+        {
+            "username": "Norman",
+            "pw": "1234"
+        },
+        {
+            "username": "Marcel",
+            "pw": "1234"
+        },
+        {
+            "username": "Gast",
+            "pw": "1234"
+        }
+    ],
+    "tasks": [
+
+    ]
+}
